@@ -1,0 +1,15 @@
+1. Numbers  
+    - No decimal points
+        - smallint 
+        - integer
+        - bigint 
+    - No decimal points, auto increment
+        - smallserial
+        - serial
+        - bigserial
+    - With decimal points
+        - deicmal
+    - numeric
+    - real
+    - double precision
+    - float 

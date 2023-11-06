@@ -1,0 +1,1 @@
+Combine two queries using union 
